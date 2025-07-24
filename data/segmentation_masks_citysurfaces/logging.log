@@ -1,0 +1,90 @@
+Torch version: 2.7, 2.7.1
+dataset = citysurfaces
+ignore_label = -1
+num_classes = 10
+all imgs 60
+Using Per Image based weighted loss
+Using Cross Entropy Loss
+Torch version: 2.7, 2.7.1
+dataset = citysurfaces
+ignore_label = -1
+num_classes = 10
+all imgs 60
+Using Per Image based weighted loss
+Using Cross Entropy Loss
+Loading weights from: checkpoint=./weights/block_c_10classes.pth
+Torch version: 2.7, 2.7.1
+dataset = citysurfaces
+ignore_label = -1
+num_classes = 10
+all imgs 60
+Using Per Image based weighted loss
+Using Cross Entropy Loss
+Torch version: 2.7, 2.7.1
+dataset = citysurfaces
+ignore_label = -1
+num_classes = 10
+all imgs 60
+Using Per Image based weighted loss
+Using Cross Entropy Loss
+Loading weights from: checkpoint=./weights/block_c_10classes.pth
+Torch version: 2.7, 2.7.1
+dataset = citysurfaces
+ignore_label = -1
+num_classes = 10
+all imgs 60
+Using Per Image based weighted loss
+Using Cross Entropy Loss
+Loading weights from: checkpoint=./weights/block_c_10classes.pth
+=> init weights from normal distribution
+Torch version: 2.7, 2.7.1
+dataset = citysurfaces
+ignore_label = -1
+num_classes = 10
+all imgs 60
+Using Per Image based weighted loss
+Using Cross Entropy Loss
+Loading weights from: checkpoint=./weights/block_c_10classes.pth
+=> init weights from normal distribution
+=> loading pretrained model seg_weights/hrnetv2_w48_imagenet_pretrained.pth
+Trunk: hrnetv2
+Model params = 72.1M
+Torch version: 2.7, 2.7.1
+dataset = citysurfaces
+ignore_label = -1
+num_classes = 10
+all imgs 60
+Using Per Image based weighted loss
+Using Cross Entropy Loss
+Loading weights from: checkpoint=./weights/block_c_10classes.pth
+=> init weights from normal distribution
+=> loading pretrained model seg_weights/hrnetv2_w48_imagenet_pretrained.pth
+Trunk: hrnetv2
+Model params = 72.1M
+Torch version: 2.7, 2.7.1
+dataset = citysurfaces
+ignore_label = -1
+num_classes = 10
+all imgs 60
+Using Per Image based weighted loss
+Using Cross Entropy Loss
+Loading weights from: checkpoint=./weights/block_c_10classes.pth
+=> init weights from normal distribution
+=> loading pretrained model seg_weights/hrnetv2_w48_imagenet_pretrained.pth
+Trunk: hrnetv2
+Model params = 72.1M
+Torch version: 2.7, 2.7.1
+dataset = citysurfaces
+ignore_label = -1
+num_classes = 10
+all imgs 60
+Using Per Image based weighted loss
+Using Cross Entropy Loss
+Loading weights from: checkpoint=./weights/block_c_10classes.pth
+=> init weights from normal distribution
+=> loading pretrained model seg_weights/hrnetv2_w48_imagenet_pretrained.pth
+Trunk: hrnetv2
+Model params = 72.1M
+validating[Iter: 1 / 60]
+validating[Iter: 21 / 60]
+validating[Iter: 41 / 60]
